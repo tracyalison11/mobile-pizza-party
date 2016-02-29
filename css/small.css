@@ -9,6 +9,7 @@
 
 }
 
-aside {
+aside.right, aside.left {
     text-align: center;
+    float: inherit;
 }

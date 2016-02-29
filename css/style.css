@@ -73,5 +73,12 @@ h2 {
 
 }
 
+aside.left {
+  float: left;
+}
+
+aside.right {
+  float: right;
+}
 
 

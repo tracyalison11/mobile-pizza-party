@@ -59,11 +59,18 @@ h2 {
  * Container Styles
 */
 
+
 .container {
   width: 600px;
   margin: 100px auto;
   background: #FFF;
 }
+
+/*Image Styles*/
+
+.hero img {
+    width: 100%
+  }
 
 
 

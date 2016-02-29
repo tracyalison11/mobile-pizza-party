@@ -48,7 +48,7 @@ h1, h2 {
 
 h1 {
 
-  font-size: 16px;
+  font-size: 40px;
 }
 
 h2 {
@@ -67,10 +67,13 @@ h2 {
 
 /*Image Styles*/
 
+.hero {
+  line-height: 0;
+}
+
 .hero img {
     width: 100%;
     border-radius: 20px 20px 0 0;
-
 }
 
 aside.left {
@@ -79,6 +82,19 @@ aside.left {
 
 aside.right {
   float: right;
+}
+
+aside {
+  margin-right: 24px;
+}
+/*Section Styles*/
+
+section.intro, section.contact {
+  padding: 40px;
+}
+
+section.intro {
+  background: #FFF;
 }
 
 
